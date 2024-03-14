@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GeekShopping",
+    "\\GeekShopping\\GeekShopping.ProductAPI",
+    "\\GeekShopping\\GeekShopping.ProductAPI\\Controllers",
+    "\\GeekShopping\\GeekShopping.ProductAPI\\Model\\Context",
+    "\\GeekShopping\\GeekShopping.ProductAPI\\Properties",
+    "\\GeekShopping\\GeekShopping.Web"
+  ],
+  "SelectedNode": "\\GeekShopping\\GeekShopping.ProductAPI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

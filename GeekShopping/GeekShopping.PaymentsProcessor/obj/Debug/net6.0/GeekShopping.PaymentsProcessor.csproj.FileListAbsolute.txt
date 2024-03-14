@@ -1,0 +1,11 @@
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\bin\Debug\net6.0\GeekShopping.PaymentsProcessor.deps.json
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\bin\Debug\net6.0\GeekShopping.PaymentsProcessor.dll
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\bin\Debug\net6.0\GeekShopping.PaymentsProcessor.pdb
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\obj\Debug\net6.0\GeekShopping.PaymentsProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\obj\Debug\net6.0\GeekShopping.PaymentsProcessor.AssemblyInfoInputs.cache
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\obj\Debug\net6.0\GeekShopping.PaymentsProcessor.AssemblyInfo.cs
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\obj\Debug\net6.0\GeekShopping.PaymentsProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\obj\Debug\net6.0\GeekShopping.PaymentsProcessor.dll
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\obj\Debug\net6.0\refint\GeekShopping.PaymentsProcessor.dll
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\obj\Debug\net6.0\GeekShopping.PaymentsProcessor.pdb
+C:\Users\Joao Sambrano\Documents\MICROSSERVICOS\GeekShopping\GeekShopping.PaymentsProcessor\obj\Debug\net6.0\ref\GeekShopping.PaymentsProcessor.dll

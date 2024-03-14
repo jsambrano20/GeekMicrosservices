@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "27OIsyOZbAa1M06gF1G33ljtzYKpYVhReb8NfYA84Bg=",
+  "Source": "GeekShopping.PaymentAPI",
+  "BasePath": "_content/GeekShopping.PaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Joao Sambrano\\Documents\\MICROSSERVICOS\\GeekShopping\\GeekShopping.CouponAPI\\GeekShopping.CouponAPI.csproj",
+      "Version": 2,
+      "Source": "GeekShopping.CouponAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
